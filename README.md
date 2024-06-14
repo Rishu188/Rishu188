@@ -7,6 +7,7 @@ Technical skills/Programming languages:
 * C
 * PYTHON
 * HTML/CSS
+
 Interpersonal skills:
 * Communication
 * Teamwork
