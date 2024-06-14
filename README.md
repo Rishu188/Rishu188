@@ -11,6 +11,7 @@ Interpersonal skills:
 * Communication
 * Teamwork
 * Problem-solving
+
 That's little about me! I'm excited to continue learning, building, and sharing my projects with the world. If u're interested in collaborating or want to say hi, don't hesitate to reach out.
 Let's make something awesome happen!
 
