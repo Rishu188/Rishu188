@@ -1,14 +1,9 @@
-
-      
-
 <body>
     <section class="hero">
         <h1>Hi, I'm Rishu 👋</h1>
-        <h2>A Curious Learner & Aspiring Developer</h2>
+        <h2>Driven by Curiosity. Building with Code.</h2>
         <p>
-            I enjoy exploring new technologies, writing code in C++, Python, and crafting websites with HTML/CSS/JS. I’m passionate about building cool things, solving problems, and working with others to bring ideas to life.
+            Passionate about exploring cutting-edge tech, coding in C++ and Python, and crafting engaging web experiences with HTML, CSS, and JavaScript. I thrive on solving challenges and turning creative ideas into impactful digital solutions.
         </p>
     </section>
 </body>
-
-</html>
